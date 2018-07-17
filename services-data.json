@@ -4,7 +4,8 @@
   "duration": 2,
   "description": "full colour, roots and style blow dry",
   "name": "colour + blowdry",
-  "price": 150
+  "price": 150,
+  "imageUrl" : "https://static.wixstatic.com/media/882ef3f40be5430280cbaacd36316267.jpg/v1/fill/w_1960,h_1212,al_c,q_90,usm_0.66_1.00_0.01/882ef3f40be5430280cbaacd36316267.webp"
   },
 
   {
@@ -12,7 +13,8 @@
     "duration": 2,
     "description": "1/2 head foils and blow dry",
     "name": "1/2 head foil + blowdry",
-    "price": 180
+    "price": 180,
+    "imageUrl" : "https://static.wixstatic.com/media/882ef3f40be5430280cbaacd36316267.jpg/v1/fill/w_1960,h_1212,al_c,q_90,usm_0.66_1.00_0.01/882ef3f40be5430280cbaacd36316267.webp"
   },
 
   {
@@ -20,7 +22,8 @@
     "duration": 2,
     "description": "full head foils + cut and blow dry includes tonner and curling/ iron straightening.",
     "name": "1/2 head foils + cut + blowdry",
-    "price": 200
+    "price": 200,
+    "imageUrl" : "https://static.wixstatic.com/media/882ef3f40be5430280cbaacd36316267.jpg/v1/fill/w_1960,h_1212,al_c,q_90,usm_0.66_1.00_0.01/882ef3f40be5430280cbaacd36316267.webp"
   },
 
   {
@@ -28,37 +31,43 @@
     "duration": 3,
     "description": "Hair colour, roots, 1/2 head foils or Balayage and tonner + a latino/ brazilian straightening. ",
     "name": "hair colour/foils + Latino",
-    "price": 350
+    "price": 350,
+    "imageUrl" : "https://static.wixstatic.com/media/882ef3f40be5430280cbaacd36316267.jpg/v1/fill/w_1960,h_1212,al_c,q_90,usm_0.66_1.00_0.01/882ef3f40be5430280cbaacd36316267.webp"
   },
   {
     "id": 5,
     "duration": 2,
     "description": "full colour, roots and style blow dry",
     "name": "colour + blowdry",
-    "price": 150
-    },
+    "price": 150,
+    "imageUrl" : "https://static.wixstatic.com/media/882ef3f40be5430280cbaacd36316267.jpg/v1/fill/w_1960,h_1212,al_c,q_90,usm_0.66_1.00_0.01/882ef3f40be5430280cbaacd36316267.webp"
+  },
   
-    {
-      "id": 6,
-      "duration": 4,
-      "description": "1/2 head foils and blow dry",
-      "name": "1/2 head foil + blowdry",
-      "price": 100
-    },
+  {
+    "id": 6,
+    "duration": 4,
+    "description": "1/2 head foils and blow dry",
+    "name": "1/2 head foil + blowdry",
+    "price": 100,
+    "imageUrl" : "https://static.wixstatic.com/media/882ef3f40be5430280cbaacd36316267.jpg/v1/fill/w_1960,h_1212,al_c,q_90,usm_0.66_1.00_0.01/882ef3f40be5430280cbaacd36316267.webp"    
+  },
   
-    {
-      "id": 7,
-      "duration": 2,
-      "description": "full head foils + cut and blow dry includes tonner and curling/ iron straightening.",
-      "name": "1/2 head foils + cut + blowdry",
-      "price": 200
-    },
-  
-    {
-      "id": 8,
-      "duration": 1,
-      "description": "Hair colour, roots, 1/2 head foils or Balayage and tonner + a latino/ brazilian straightening. ",
-      "name": "hair colour/foils + Latino",
-      "price": 150
-    }
+  {
+    "id": 7,
+    "duration": 2,
+    "description": "full head foils + cut and blow dry includes tonner and curling/ iron straightening.",
+    "name": "1/2 head foils + cut + blowdry",
+    "price": 200,
+    "imageUrl" : "https://static.wixstatic.com/media/882ef3f40be5430280cbaacd36316267.jpg/v1/fill/w_1960,h_1212,al_c,q_90,usm_0.66_1.00_0.01/882ef3f40be5430280cbaacd36316267.webp"
+  },
+
+  {
+    "id": 8,
+    "duration": 1,
+    "description": "Hair colour, roots, 1/2 head foils or Balayage and tonner + a latino/ brazilian straightening. ",
+    "name": "hair colour/foils + Latino",
+    "price": 150,
+    "imageUrl" : "https://static.wixstatic.com/media/882ef3f40be5430280cbaacd36316267.jpg/v1/fill/w_1960,h_1212,al_c,q_90,usm_0.66_1.00_0.01/882ef3f40be5430280cbaacd36316267.webp"
+
+  }
 ]
